@@ -1,0 +1,15 @@
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/bin/Debug/net6.0/CounterObject
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/bin/Debug/net6.0/CounterObject.deps.json
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/bin/Debug/net6.0/CounterObject.runtimeconfig.json
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/bin/Debug/net6.0/CounterObject.dll
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/bin/Debug/net6.0/ref/CounterObject.dll
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/bin/Debug/net6.0/CounterObject.pdb
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/obj/Debug/net6.0/CounterObject.csproj.AssemblyReference.cache
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/obj/Debug/net6.0/CounterObject.GeneratedMSBuildEditorConfig.editorconfig
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/obj/Debug/net6.0/CounterObject.AssemblyInfoInputs.cache
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/obj/Debug/net6.0/CounterObject.AssemblyInfo.cs
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/obj/Debug/net6.0/CounterObject.csproj.CoreCompileInputs.cache
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/obj/Debug/net6.0/CounterObject.dll
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/obj/Debug/net6.0/ref/CounterObject.dll
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/obj/Debug/net6.0/CounterObject.pdb
+/home/newbee/Documents/Projects/COS20007/2.1P/CounterObject/obj/Debug/net6.0/CounterObject.genruntimeconfig.cache

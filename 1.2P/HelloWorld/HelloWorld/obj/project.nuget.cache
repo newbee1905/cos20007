@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7O+plZvJDSfvOU/GswoeaHVccGpSrb5ySuFom4jqiwBk9D8DBmCf1gA2RM8Jnmn9apiTEOWPb0URrzi1nC2Vg==",
+  "success": true,
+  "projectFilePath": "/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

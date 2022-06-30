@@ -1,0 +1,15 @@
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/obj/Debug/netcoreapp6.0/BPlus.csproj.AssemblyReference.cache
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/obj/Debug/netcoreapp6.0/BPlus.GeneratedMSBuildEditorConfig.editorconfig
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/obj/Debug/netcoreapp6.0/BPlus.AssemblyInfoInputs.cache
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/obj/Debug/netcoreapp6.0/BPlus.AssemblyInfo.cs
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/obj/Debug/netcoreapp6.0/BPlus.csproj.CoreCompileInputs.cache
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/bin/Debug/netcoreapp6.0/BPlus
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/bin/Debug/netcoreapp6.0/BPlus.deps.json
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/bin/Debug/netcoreapp6.0/BPlus.runtimeconfig.json
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/bin/Debug/netcoreapp6.0/BPlus.dll
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/bin/Debug/netcoreapp6.0/ref/BPlus.dll
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/bin/Debug/netcoreapp6.0/BPlus.pdb
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/obj/Debug/netcoreapp6.0/BPlus.dll
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/obj/Debug/netcoreapp6.0/ref/BPlus.dll
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/obj/Debug/netcoreapp6.0/BPlus.pdb
+/home/newbee/Documents/Projects/COS20007/BPlus/BPlus/obj/Debug/netcoreapp6.0/BPlus.genruntimeconfig.cache

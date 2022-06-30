@@ -1,0 +1,15 @@
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/newbee/Documents/Projects/COS20007/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache

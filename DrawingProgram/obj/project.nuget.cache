@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nzXsKJRl2jqD6umzMDVMygMofbh5rGiGktnPfqvmpfWL4MBf2okhKOsfFutvF4kbArTyw8e0f0/Xjwty1+3mDQ==",
+  "success": true,
+  "projectFilePath": "/home/newbee/Documents/Projects/COS20007/DrawingProgram/DrawingProgram.csproj",
+  "expectedPackageFiles": [
+    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/bin/Debug/net6.0/ShapeDrawer
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/bin/Debug/net6.0/ShapeDrawer.deps.json
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/bin/Debug/net6.0/ShapeDrawer.runtimeconfig.json
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/bin/Debug/net6.0/ShapeDrawer.dll
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/bin/Debug/net6.0/ref/ShapeDrawer.dll
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/bin/Debug/net6.0/ShapeDrawer.pdb
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.csproj.AssemblyReference.cache
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.AssemblyInfoInputs.cache
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.AssemblyInfo.cs
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.csproj.CoreCompileInputs.cache
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.dll
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/obj/Debug/net6.0/ref/ShapeDrawer.dll
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.pdb
+/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/obj/Debug/net6.0/ShapeDrawer.genruntimeconfig.cache

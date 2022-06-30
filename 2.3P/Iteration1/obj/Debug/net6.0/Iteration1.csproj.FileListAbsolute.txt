@@ -1,0 +1,12 @@
+/home/newbee/Documents/Projects/COS20007/Iteration1/bin/Debug/net6.0/Iteration1.deps.json
+/home/newbee/Documents/Projects/COS20007/Iteration1/bin/Debug/net6.0/Iteration1.dll
+/home/newbee/Documents/Projects/COS20007/Iteration1/bin/Debug/net6.0/ref/Iteration1.dll
+/home/newbee/Documents/Projects/COS20007/Iteration1/bin/Debug/net6.0/Iteration1.pdb
+/home/newbee/Documents/Projects/COS20007/Iteration1/obj/Debug/net6.0/Iteration1.csproj.AssemblyReference.cache
+/home/newbee/Documents/Projects/COS20007/Iteration1/obj/Debug/net6.0/Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+/home/newbee/Documents/Projects/COS20007/Iteration1/obj/Debug/net6.0/Iteration1.AssemblyInfoInputs.cache
+/home/newbee/Documents/Projects/COS20007/Iteration1/obj/Debug/net6.0/Iteration1.AssemblyInfo.cs
+/home/newbee/Documents/Projects/COS20007/Iteration1/obj/Debug/net6.0/Iteration1.csproj.CoreCompileInputs.cache
+/home/newbee/Documents/Projects/COS20007/Iteration1/obj/Debug/net6.0/Iteration1.dll
+/home/newbee/Documents/Projects/COS20007/Iteration1/obj/Debug/net6.0/ref/Iteration1.dll
+/home/newbee/Documents/Projects/COS20007/Iteration1/obj/Debug/net6.0/Iteration1.pdb

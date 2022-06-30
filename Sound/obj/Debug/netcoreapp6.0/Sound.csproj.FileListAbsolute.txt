@@ -1,0 +1,15 @@
+/home/newbee/Documents/Projects/COS20007/Sound/bin/Debug/netcoreapp6.0/Sound
+/home/newbee/Documents/Projects/COS20007/Sound/bin/Debug/netcoreapp6.0/Sound.deps.json
+/home/newbee/Documents/Projects/COS20007/Sound/bin/Debug/netcoreapp6.0/Sound.runtimeconfig.json
+/home/newbee/Documents/Projects/COS20007/Sound/bin/Debug/netcoreapp6.0/Sound.dll
+/home/newbee/Documents/Projects/COS20007/Sound/bin/Debug/netcoreapp6.0/ref/Sound.dll
+/home/newbee/Documents/Projects/COS20007/Sound/bin/Debug/netcoreapp6.0/Sound.pdb
+/home/newbee/Documents/Projects/COS20007/Sound/obj/Debug/netcoreapp6.0/Sound.csproj.AssemblyReference.cache
+/home/newbee/Documents/Projects/COS20007/Sound/obj/Debug/netcoreapp6.0/Sound.GeneratedMSBuildEditorConfig.editorconfig
+/home/newbee/Documents/Projects/COS20007/Sound/obj/Debug/netcoreapp6.0/Sound.AssemblyInfoInputs.cache
+/home/newbee/Documents/Projects/COS20007/Sound/obj/Debug/netcoreapp6.0/Sound.AssemblyInfo.cs
+/home/newbee/Documents/Projects/COS20007/Sound/obj/Debug/netcoreapp6.0/Sound.csproj.CoreCompileInputs.cache
+/home/newbee/Documents/Projects/COS20007/Sound/obj/Debug/netcoreapp6.0/Sound.dll
+/home/newbee/Documents/Projects/COS20007/Sound/obj/Debug/netcoreapp6.0/ref/Sound.dll
+/home/newbee/Documents/Projects/COS20007/Sound/obj/Debug/netcoreapp6.0/Sound.pdb
+/home/newbee/Documents/Projects/COS20007/Sound/obj/Debug/netcoreapp6.0/Sound.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TQL+neySiDs2s/0QNqsXtmP1SGCi2LJCYq/oPrl/c6oeqvkMoSKshRPFOEa9mCi+wwX2/4Pbq4yQ6sx7jUlPsQ==",
+  "success": true,
+  "projectFilePath": "/home/newbee/Documents/Projects/COS20007/Car/Car.csproj",
+  "expectedPackageFiles": [
+    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

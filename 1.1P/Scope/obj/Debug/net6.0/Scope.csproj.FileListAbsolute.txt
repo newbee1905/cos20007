@@ -1,0 +1,15 @@
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/bin/Debug/net6.0/Scope
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/bin/Debug/net6.0/Scope.deps.json
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/bin/Debug/net6.0/Scope.runtimeconfig.json
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/bin/Debug/net6.0/Scope.dll
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/bin/Debug/net6.0/ref/Scope.dll
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/bin/Debug/net6.0/Scope.pdb
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/obj/Debug/net6.0/Scope.csproj.AssemblyReference.cache
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/obj/Debug/net6.0/Scope.GeneratedMSBuildEditorConfig.editorconfig
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/obj/Debug/net6.0/Scope.AssemblyInfoInputs.cache
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/obj/Debug/net6.0/Scope.AssemblyInfo.cs
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/obj/Debug/net6.0/Scope.csproj.CoreCompileInputs.cache
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/obj/Debug/net6.0/Scope.dll
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/obj/Debug/net6.0/ref/Scope.dll
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/obj/Debug/net6.0/Scope.pdb
+/home/newbee/Documents/Projects/COS20007/1.1P/Scope/obj/Debug/net6.0/Scope.genruntimeconfig.cache

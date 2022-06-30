@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BSBXKbjTNpNkeMvBF5x1cViQ786O/+iWZ0BulmC5Jx+UvwZ0EE+8zuK8pGxXmXgsgPy98vwFB414pynWWTC1jw==",
+  "success": true,
+  "projectFilePath": "/home/newbee/Documents/Projects/COS20007/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+  "expectedPackageFiles": [
+    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

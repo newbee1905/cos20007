@@ -1,0 +1,1 @@
+/home/newbee/.splashkit/dotnet/SplashKit.cs

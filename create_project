@@ -1,0 +1,13 @@
+#!/bin/sh
+
+dir=$1
+
+mkdir "$dir"
+cd "$dir"
+dotnet new sln
+dotnet new console -o "$dir"
+dotnet sln add "./$dir/$dir.csproj"
+dotnet new nunit -o "$dir.Tests"
+dotnet sln add "./$dir.Tests/$dir.Tests.csproj"
+cd "$dir.Tests"
+dotnet add reference "../$dir/$dir.csproj"

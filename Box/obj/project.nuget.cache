@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eyADdyFi68fDLaT5AwHlh2CwV2IL1sUSDCuiW1WoJNn+6SoQeXH4m+rCKQ2xPilL7K4/qxJ9p48x256folNjzw==",
+  "success": true,
+  "projectFilePath": "/home/newbee/Documents/Projects/Box/Box.csproj",
+  "expectedPackageFiles": [
+    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

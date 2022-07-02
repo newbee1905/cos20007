@@ -2,13 +2,12 @@ namespace Library;
 
 public abstract class LibraryResource {
 	private string _name;
-	protected string _creator, _rating;
+	protected string _creator;
 	private bool _onLoan;
 
-	public LibraryResource(string name, string creator, string rating) {
+	public LibraryResource(string name, string creator) {
 		_name = name;
 		_creator = creator;
-		_rating = rating;
 		_onLoan = false;
 	}
 

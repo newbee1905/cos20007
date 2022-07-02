@@ -9,9 +9,6 @@ public class LookCommand : Command
 		if ((text.Length != 3 && text.Length != 5))
 			return "I don't know how to look like that";
 
-		if (text[0] != "look")
-			return "Error in look input";
-
 		if (text[1] != "at")
 			return "What do you want me to look at?";
 

@@ -1,0 +1,24 @@
+@startuml
+
+Path o-- Location
+
+class Location {
+	-_paths Inventory
+	--getter--
+	+Paths Inventory
+	--methods--
+	+UpdatePath(string direction, Location to)
+	+RemovePath(string direction)
+}
+
+class Path<Item> {
+	-_to Location
+	--getter--
+	+To Location
+	--setter--
+	+To Location
+	--methods--
+	+Path(string[] ids, string name, string desc)
+}
+
+@enduml

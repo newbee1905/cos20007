@@ -1,0 +1,42 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+Game <|-- LibraryResource : is
+Book <|-- LibraryResource : is
+LibraryResource o-- Library : has
+
+abstract LibraryResource {
+	- _name string
+	- _onLoan boolean
+	# _creator string
+	
+	__ getter __
+	+ Name string
+	+ OnLoan boolean
+
+	__ setter __
+	+ OnLoan boolean
+}
+
+class Game<LibraryResource> {
+	- _contentRating string
+
+	__ getter __
+	+ Developer string
+}
+
+class Book<LibraryResource> {
+	- _isbn string
+
+	__ getter __
+	+ ISBN string
+}
+
+class Library {
+	__ methods __
+	+ Library(string name)
+	+ AddResource(LibraryResource resource)
+	+ HasResource(string name) boolean
+}
+
+@enduml

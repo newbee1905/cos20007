@@ -1,0 +1,21 @@
+@startuml
+
+Location o-- MoveCommand
+Direction o-- MoveCommand
+Player o-- MoveCommand
+
+enum Direction {
+	north = up = 0
+	west = left = 1
+	south = down = 2
+	east = right = 3
+}
+
+class MoveCommand<Command> {
+	--methods--
+	+MoveCommand(string[] ids)
+	+Execute(Player p, string[] text)
+	+FetchLocation(Player p, Direction direction)
+}
+
+@enduml

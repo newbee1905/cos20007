@@ -61,10 +61,24 @@ public static class Program
 		wonderLand.Items.Put(banana);
 		wonderLand.Items.Put(brokenSword);
 
+		Location hellaLand = new(
+			new string[] { "hell", "Land" },
+			"HellaLand",
+			"The Hell"
+		);
+
+		wonderLand.UpdatePath("north", hellaLand);
+		hellaLand.UpdatePath("south", wonderLand);
+
 		player.CurLocation = wonderLand;
 
 		LookCommand look = new(new string[] { "look" });
-		string[] command;
+		MoveCommand move = new(new string[] { "move", "head", "go", "leave" });
+		CommandProcessor commands = new();
+		commands.AddCommand(new string[] { "look" }, look);
+		commands.AddCommand(new string[] { "move", "head", "go", "leave" }, move);
+
+		string[] cmdText;
 		string? inp = "";
 		
 		Console.WriteLine("Type your command below. Or type quit to stop the program.");
@@ -74,8 +88,13 @@ public static class Program
 			inp = Console.ReadLine();
 			if (inp == null || inp == "quit")
 				break;
-			command = inp.Split(" ");
-			Console.WriteLine($"= {look.Execute(player, command)}");
+			cmdText = inp.Split(" ");
+			var cmd = commands.GetCommand(cmdText[0]);
+			if (cmd is null) {
+				Console.WriteLine("There is no such command");
+				continue;
+			}
+			Console.WriteLine($"= {cmd.Execute(player, cmdText)}");
 		}
 	}
 }

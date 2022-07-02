@@ -11,6 +11,10 @@ public class Library {
 	public void AddResource(LibraryResource resource)
 		=> _resources.Add(resource);
 
-	public bool HasResource(string name)
-		=> _resources.Find(r => r.Name.Equals(name)) is not null;
+	public bool HasResource(string name) {
+		var resource = _resources.Find(r => r.Name.Equals(name));
+		if (resource is null)
+			return false;
+		return !resource.OnLoan;
+	}
 }

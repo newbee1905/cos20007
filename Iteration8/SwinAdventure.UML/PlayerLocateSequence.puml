@@ -1,0 +1,14 @@
+@startuml
+
+-> Input : "look at land"
+Input -> Command : "look" "at" "land"
+Command -> Player : Locate "land" in "me || inventory || location"
+Player -> Player : Are you "land" ? No
+Player -> Location : Are you "land"
+Location -> Location : Yes, I am "land"
+Location --> Player : GameObject Location
+Player --> Command : GameObject Location
+Command --> Output : Location Description
+<-- Output : "A Wonderful Land" 
+
+@enduml

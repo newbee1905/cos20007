@@ -1,0 +1,5 @@
+/home/newbee/Documents/Projects/COS20007/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/newbee/Documents/Projects/COS20007/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/newbee/Documents/Projects/COS20007/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/newbee/Documents/Projects/COS20007/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/newbee/Documents/Projects/COS20007/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache

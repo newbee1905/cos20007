@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hyp9e/7lclpR1Er8sO0aR4dqFme4P4kt6WieXhy7eXHZyy23jK6DPAVD8qDPBt98NuiX0c2/9u2d1fkn4ZvS8g==",
+  "success": true,
+  "projectFilePath": "/home/newbee/Documents/Projects/COS20007/AutoComplete/AutoComplete.csproj",
+  "expectedPackageFiles": [
+    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -3,7 +3,7 @@ namespace SwinAdventure;
 public class CommandProcessor
 {
 	// Dictionary<string, Command> _commands;
-	List<Command> _commands;
+	private List<Command> _commands;
 
 	public CommandProcessor()
 		=> _commands = new();

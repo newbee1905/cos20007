@@ -1,0 +1,5 @@
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Release/net6.0/AutoComplete.csproj.AssemblyReference.cache
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Release/net6.0/AutoComplete.GeneratedMSBuildEditorConfig.editorconfig
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Release/net6.0/AutoComplete.AssemblyInfoInputs.cache
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Release/net6.0/AutoComplete.AssemblyInfo.cs
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Release/net6.0/AutoComplete.csproj.CoreCompileInputs.cache

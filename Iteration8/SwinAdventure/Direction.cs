@@ -9,5 +9,5 @@ enum Direction : short
 	up = north,
 	left = west,
 	down = south,
-	right = west
+	right = east
 }

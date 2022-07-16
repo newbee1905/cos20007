@@ -1,0 +1,13 @@
+@startuml
+
+Command o-- CommandProcessor
+
+class CommandProcessor {
+	-_commands List<Command>
+	--methods--
+	+CommandProcessor()
+	+AddCommand(Command cmd)
+	+AddCommand(string cmdId) Command
+}
+
+@enduml

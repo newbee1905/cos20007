@@ -1,3 +1,5 @@
+using System;
+
 namespace SwinAdventure.Tests;
 
 public class LocationTests
@@ -65,9 +67,11 @@ public class LocationTests
 
 	[Test]
 	public void TestLocationFullDescription()
-		=> Assert.AreEqual(
-			"0.0",
-			_location?.FullDescription);
+		=> Assert.AreEqual(@"0.0
+	a Rusted Sword (weapon)
+	a Demon Armour (armour)
+	a Pho (food)",
+	_location?.FullDescription);
 
 	[Test]
 	public void TestLocationName()

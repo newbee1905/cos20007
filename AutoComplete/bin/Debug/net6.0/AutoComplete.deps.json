@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AutoComplete/1.0.0": {
+        "dependencies": {
+          "Fastenshtein": "1.0.0.8"
+        },
+        "runtime": {
+          "AutoComplete.dll": {}
+        }
+      },
+      "Fastenshtein/1.0.0.8": {
+        "runtime": {
+          "lib/netstandard2.0/Fastenshtein.dll": {
+            "assemblyVersion": "1.0.0.8",
+            "fileVersion": "1.0.0.8"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoComplete/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fastenshtein/1.0.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sFzPyg8P7YowvLuyH4xWAARLA3X5hpsI/RSFyNKVRTcPLIIhLLIw2V7aIGUnoKn9W8JoMT7S4MfaEVhsxT4tVw==",
+      "path": "fastenshtein/1.0.0.8",
+      "hashPath": "fastenshtein.1.0.0.8.nupkg.sha512"
+    }
+  }
+}

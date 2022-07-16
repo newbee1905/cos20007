@@ -51,10 +51,11 @@ public class MoveCommandTests
 		);
 
 		_l1.UpdatePath("down", _l2);
+		_l1.UpdatePath("east", _l3);
 		_l2.UpdatePath("up", _l1);
-		_l1.UpdatePath("right", _l3);
 		_l2.UpdatePath("right", _l4);
 		_l3.UpdatePath("down", _l4);
+		_l3.UpdatePath("left", _l1);
 		_l4.UpdatePath("up", _l3);
 		_l4.UpdatePath("right", _l5);
 

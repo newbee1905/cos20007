@@ -1,0 +1,17 @@
+/home/newbee/Documents/Projects/COS20007/AutoComplete/bin/Debug/net6.0/AutoComplete
+/home/newbee/Documents/Projects/COS20007/AutoComplete/bin/Debug/net6.0/AutoComplete.deps.json
+/home/newbee/Documents/Projects/COS20007/AutoComplete/bin/Debug/net6.0/AutoComplete.runtimeconfig.json
+/home/newbee/Documents/Projects/COS20007/AutoComplete/bin/Debug/net6.0/AutoComplete.dll
+/home/newbee/Documents/Projects/COS20007/AutoComplete/bin/Debug/net6.0/ref/AutoComplete.dll
+/home/newbee/Documents/Projects/COS20007/AutoComplete/bin/Debug/net6.0/AutoComplete.pdb
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Debug/net6.0/AutoComplete.csproj.AssemblyReference.cache
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Debug/net6.0/AutoComplete.GeneratedMSBuildEditorConfig.editorconfig
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Debug/net6.0/AutoComplete.AssemblyInfoInputs.cache
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Debug/net6.0/AutoComplete.AssemblyInfo.cs
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Debug/net6.0/AutoComplete.csproj.CoreCompileInputs.cache
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Debug/net6.0/AutoComplete.dll
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Debug/net6.0/ref/AutoComplete.dll
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Debug/net6.0/AutoComplete.pdb
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Debug/net6.0/AutoComplete.genruntimeconfig.cache
+/home/newbee/Documents/Projects/COS20007/AutoComplete/bin/Debug/net6.0/Fastenshtein.dll
+/home/newbee/Documents/Projects/COS20007/AutoComplete/obj/Debug/net6.0/AutoComplete.csproj.CopyComplete

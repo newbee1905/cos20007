@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CzsMYyC2Zli8uLYLHx2Hs8ZRPXmGbki76331TzCfR4Ck8lLAV7KTDtiN/nVJsEjP2DojfZXhxKt0LP3zSzgwLA==",
+  "dgSpecHash": "ZxEjO6BniMvs86GAw8rhUkKysknSYzTj53EFOKGHBTSExtHGVmWW5hEwIdVgMq70VEdHJ3vhBM7rcMxnuMJlDg==",
   "success": true,
   "projectFilePath": "/home/newbee/Documents/Projects/COS20007/3.3P/Clock/Clock/Clock.csproj",
   "expectedPackageFiles": [
-    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/newbee/Documents/Projects/COS20007/Iteration1/Iteration1.Tests/Iteration1.Tests.csproj": {}
+    "/home/newbee/Documents/Projects/COS20007/2.3P/Iteration1/Iteration1.Tests/Iteration1.Tests.csproj": {}
   },
   "projects": {
-    "/home/newbee/Documents/Projects/COS20007/Iteration1/Iteration1.Tests/Iteration1.Tests.csproj": {
+    "/home/newbee/Documents/Projects/COS20007/2.3P/Iteration1/Iteration1.Tests/Iteration1.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/newbee/Documents/Projects/COS20007/Iteration1/Iteration1.Tests/Iteration1.Tests.csproj",
+        "projectUniqueName": "/home/newbee/Documents/Projects/COS20007/2.3P/Iteration1/Iteration1.Tests/Iteration1.Tests.csproj",
         "projectName": "Iteration1.Tests",
-        "projectPath": "/home/newbee/Documents/Projects/COS20007/Iteration1/Iteration1.Tests/Iteration1.Tests.csproj",
+        "projectPath": "/home/newbee/Documents/Projects/COS20007/2.3P/Iteration1/Iteration1.Tests/Iteration1.Tests.csproj",
         "packagesPath": "/home/newbee/.nuget/packages/",
-        "outputPath": "/home/newbee/Documents/Projects/COS20007/Iteration1/Iteration1.Tests/obj/",
+        "outputPath": "/home/newbee/Documents/Projects/COS20007/2.3P/Iteration1/Iteration1.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/newbee/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/newbee/Documents/Projects/COS20007/Iteration1/Iteration1/Iteration1.csproj": {
-                "projectPath": "/home/newbee/Documents/Projects/COS20007/Iteration1/Iteration1/Iteration1.csproj"
+              "/home/newbee/Documents/Projects/COS20007/2.3P/Iteration1/Iteration1/Iteration1.csproj": {
+                "projectPath": "/home/newbee/Documents/Projects/COS20007/2.3P/Iteration1/Iteration1/Iteration1.csproj"
               }
             }
           }
@@ -72,7 +72,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.2, 6.0.2]"
+              "version": "[6.0.6, 6.0.6]"
             }
           ],
           "frameworkReferences": {
@@ -80,18 +80,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/newbee/Documents/Projects/COS20007/Iteration1/Iteration1/Iteration1.csproj": {
+    "/home/newbee/Documents/Projects/COS20007/2.3P/Iteration1/Iteration1/Iteration1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/newbee/Documents/Projects/COS20007/Iteration1/Iteration1/Iteration1.csproj",
+        "projectUniqueName": "/home/newbee/Documents/Projects/COS20007/2.3P/Iteration1/Iteration1/Iteration1.csproj",
         "projectName": "Iteration1",
-        "projectPath": "/home/newbee/Documents/Projects/COS20007/Iteration1/Iteration1/Iteration1.csproj",
+        "projectPath": "/home/newbee/Documents/Projects/COS20007/2.3P/Iteration1/Iteration1/Iteration1.csproj",
         "packagesPath": "/home/newbee/.nuget/packages/",
-        "outputPath": "/home/newbee/Documents/Projects/COS20007/Iteration1/Iteration1/obj/",
+        "outputPath": "/home/newbee/Documents/Projects/COS20007/2.3P/Iteration1/Iteration1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/newbee/.nuget/NuGet/NuGet.Config"
@@ -130,7 +130,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.2, 6.0.2]"
+              "version": "[6.0.6, 6.0.6]"
             }
           ],
           "frameworkReferences": {
@@ -138,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
         }
       }
     }

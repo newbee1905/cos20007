@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "blfB34hXBxSB6Gc4irbHFRu6QS1LSp0YeWq1pfKGfmYHV0LRDFVXHLaUkU6gt2LkJN1NOp75zxFgBDhuxp9p6Q==",
+  "dgSpecHash": "+59x2GxDxa5Erwco/fAO6Psk2KcOH3oGwDFbFmD9f/+1YZVf40/YLh1EV15amErBv1oWyAqqQTdoJsi4Sa7tMg==",
   "success": true,
   "projectFilePath": "/home/newbee/Documents/Projects/COS20007/4.1P/DrawingProgram.csproj",
   "expectedPackageFiles": [
-    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
   ],
   "logs": []
 }

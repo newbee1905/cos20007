@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vRj0j36DDzADjKcrHYSHp1q1TFnSG40OcDT0PtUPkdt77Z6Cvf4bHZ35IoAa25k2x888w0d+1pyf7MOpoESeJA==",
+  "dgSpecHash": "ysReF6g6tW1PsiYnIs/dM9ggPQzDNxm+N75bIE+o0ANSCZDaWU8M1Us44pqrqm1FiZe2n/M8ZSJ+ZMzw3+DMKg==",
   "success": true,
   "projectFilePath": "/home/newbee/Documents/Projects/COS20007/2.2P/ShapeDrawer/ShapeDrawer/ShapeDrawer.csproj",
   "expectedPackageFiles": [
-    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
   ],
   "logs": []
 }

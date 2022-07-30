@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eWp1Mij54uDVL+C5Db5kB7xcT3kf1s+wCzNwV3T4Vv5pYsJTxJ4HQD7T1kmoT0engbik1AMi9EU3EP39S6s3qg==",
+  "dgSpecHash": "azDiSY0oZAV009lzErsuoXJ6OvILP8797ayvgDzc1V+uwTUej6dUN60g3lw28FKsf+lN/g9kV/EU9q9PuVHZTw==",
   "success": true,
   "projectFilePath": "/home/newbee/Documents/Projects/COS20007/Iteration3/SwinAdventure.Tests/SwinAdventure.Tests.csproj",
   "expectedPackageFiles": [
@@ -50,7 +50,7 @@
     "/home/newbee/.nuget/packages/system.threading.tasks.extensions/4.0.0/system.threading.tasks.extensions.4.0.0.nupkg.sha512",
     "/home/newbee/.nuget/packages/system.xml.readerwriter/4.0.11/system.xml.readerwriter.4.0.11.nupkg.sha512",
     "/home/newbee/.nuget/packages/system.xml.xdocument/4.0.11/system.xml.xdocument.4.0.11.nupkg.sha512",
-    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
   ],
   "logs": []
 }

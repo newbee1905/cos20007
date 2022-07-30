@@ -46,14 +46,21 @@ public static class Program
 		LookCommand look = new(new string[] { "look" });
 		string[] command;
 		string? inp = "";
-		
+
 		Console.WriteLine("Type your command below. Or type quit to stop the program.");
-		while (true)
+		// while (true)
+		// {
+		// 	Console.Write("> ");
+		// 	inp = Console.ReadLine();
+		// 	if (inp == null || inp == "quit")
+		// 		break;
+		// 	command = inp.Split(" ");
+		// 	Console.WriteLine($"= {look.Execute(player, command)}");
+		// }
+
+		while (inp != "end")
 		{
-			Console.Write("> ");
 			inp = Console.ReadLine();
-			if (inp == null || inp == "quit")
-				break;
 			command = inp.Split(" ");
 			Console.WriteLine($"= {look.Execute(player, command)}");
 		}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FroSBWuABKCWZ+HgX9L+3kS7pH8hMl421DpgV0NUtttd72JLAllWrEeLLISRLmvt6TprfVBBqVuujtzjaEmrAA==",
+  "dgSpecHash": "rLYU4DaEUMO33nPQhDfNB6DjOaLp1xlbdRiu+1t+rn+mXZ+3qpA4jAuYmpf1XPrOonXBuHRKwKkt1reOmMA5Iw==",
   "success": true,
   "projectFilePath": "/home/newbee/Documents/Projects/COS20007/3.3P/Clock/Clock.Tests/Clock.Tests.csproj",
   "expectedPackageFiles": [
@@ -67,7 +67,7 @@
     "/home/newbee/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/home/newbee/.nuget/packages/system.xml.xpath/4.3.0/system.xml.xpath.4.3.0.nupkg.sha512",
     "/home/newbee/.nuget/packages/system.xml.xpath.xmldocument/4.3.0/system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
-    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+    "/home/newbee/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
   ],
   "logs": []
 }

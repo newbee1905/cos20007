@@ -38,7 +38,7 @@ impl Clock {
 
 	pub fn time(&self) -> String {
 		format!(
-			"{:00}:{:00}:{:00}",
+			"{:02}:{:02}:{:02}",
 			self.get_hour(),
 			self.get_minute(),
 			self.get_second(),

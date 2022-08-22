@@ -8,7 +8,6 @@ fn main() {
 
 	for _ in 0..(86400 + 48265) {
 		clock.tick();
+		println!("{}", clock.time());
 	}
-
-	print!("{}", clock.time());
 }

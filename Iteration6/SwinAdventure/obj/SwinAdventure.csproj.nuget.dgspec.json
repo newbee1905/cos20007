@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/newbee/Documents/Projects/COS20007/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {}
+    "/home/newbee/Documents/Projects/COS20007/Iteration6/SwinAdventure/SwinAdventure.csproj": {}
   },
   "projects": {
-    "/home/newbee/Documents/Projects/COS20007/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {
+    "/home/newbee/Documents/Projects/COS20007/Iteration6/SwinAdventure/SwinAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/newbee/Documents/Projects/COS20007/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+        "projectUniqueName": "/home/newbee/Documents/Projects/COS20007/Iteration6/SwinAdventure/SwinAdventure.csproj",
         "projectName": "SwinAdventure",
-        "projectPath": "/home/newbee/Documents/Projects/COS20007/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+        "projectPath": "/home/newbee/Documents/Projects/COS20007/Iteration6/SwinAdventure/SwinAdventure.csproj",
         "packagesPath": "/home/newbee/.nuget/packages/",
-        "outputPath": "/home/newbee/Documents/Projects/COS20007/SwinAdventure/SwinAdventure/obj/",
+        "outputPath": "/home/newbee/Documents/Projects/COS20007/Iteration6/SwinAdventure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/newbee/.nuget/NuGet/NuGet.Config"
@@ -50,7 +50,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.2, 6.0.2]"
+              "version": "[6.0.6, 6.0.6]"
             }
           ],
           "frameworkReferences": {
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
         }
       }
     }

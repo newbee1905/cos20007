@@ -3876,11 +3876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/newbee/Documents/Projects/COS20007/SwinAdventure/SwinAdventure.Tests/SwinAdventure.Tests.csproj",
+      "projectUniqueName": "/home/newbee/Documents/Projects/COS20007/Iteration6/SwinAdventure.Tests/SwinAdventure.Tests.csproj",
       "projectName": "SwinAdventure.Tests",
-      "projectPath": "/home/newbee/Documents/Projects/COS20007/SwinAdventure/SwinAdventure.Tests/SwinAdventure.Tests.csproj",
+      "projectPath": "/home/newbee/Documents/Projects/COS20007/Iteration6/SwinAdventure.Tests/SwinAdventure.Tests.csproj",
       "packagesPath": "/home/newbee/.nuget/packages/",
-      "outputPath": "/home/newbee/Documents/Projects/COS20007/SwinAdventure/SwinAdventure.Tests/obj/",
+      "outputPath": "/home/newbee/Documents/Projects/COS20007/Iteration6/SwinAdventure.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/newbee/.nuget/NuGet/NuGet.Config"
@@ -3895,8 +3895,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/newbee/Documents/Projects/COS20007/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {
-              "projectPath": "/home/newbee/Documents/Projects/COS20007/SwinAdventure/SwinAdventure/SwinAdventure.csproj"
+            "/home/newbee/Documents/Projects/COS20007/Iteration6/SwinAdventure/SwinAdventure.csproj": {
+              "projectPath": "/home/newbee/Documents/Projects/COS20007/Iteration6/SwinAdventure/SwinAdventure.csproj"
             }
           }
         }
@@ -3941,7 +3941,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.2, 6.0.2]"
+            "version": "[6.0.6, 6.0.6]"
           }
         ],
         "frameworkReferences": {
@@ -3949,7 +3949,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
       }
     }
   }
